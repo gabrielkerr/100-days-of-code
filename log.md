@@ -5,5 +5,5 @@
 **Thoughts** This will be a great way to brush up on my algorithm skills and stay fresh on C.
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
+1. [Remove duplicates from a linked list](https://github.com/gabrielkerr/code_interview/blob/master/linked_list.c)
 
