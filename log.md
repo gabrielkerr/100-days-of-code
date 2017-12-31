@@ -15,3 +15,12 @@
 
 **Link(s) to work**
 1. [Remove from the middle of a linked list and return kth from last item.](https://github.com/gabrielkerr/code_interview/blob/master/linked_list.c)
+
+### Day 3: December 30, Saturday 
+
+**Today's Progress**: Implemented the partitioning of linked lists on a value.
+
+**Thoughts** There might be a small bug in this implementation when trying to partition on the max value of the list or values that are not in the list. I will fix it on the next day.
+
+**Link(s) to work**
+1. [Partition a linked list on a value.](https://github.com/gabrielkerr/code_interview/blob/master/linked_list.c)
