@@ -33,3 +33,12 @@
 
 **Link(s) to work**
 1. [Summation of linked lists represented in reverse order.](https://github.com/gabrielkerr/code_interview/commit/a564f7dcfd5a5bc3400d5c552ebf866708288582)
+
+### Day 5: January 1, Monday 
+
+**Today's Progress**: Implemented first part of summing linked lists in forward order. 
+
+**Thoughts** This one took me a little longer to figure out on paper before I could start implementing the solution in code. So far it only works for linked lists that are the same size. 
+
+**Link(s) to work**
+1. [Start summation of linked lists represented in forward order.](https://github.com/gabrielkerr/code_interview/commit/7447e6ab10bdaf4835b9f882744b89ddf8158a50)
