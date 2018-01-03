@@ -42,3 +42,12 @@
 
 **Link(s) to work**
 1. [Start summation of linked lists represented in forward order.](https://github.com/gabrielkerr/code_interview/commit/7447e6ab10bdaf4835b9f882744b89ddf8158a50)
+
+### Day 6: January 2, Tuesday 
+
+**Today's Progress**: Finished implementation of summing linked lists in forward over.
+
+**Thoughts** This implementation may not be the cleanest, but it works!  
+
+**Link(s) to work**
+1. [Start summation of linked lists represented in forward order.](https://github.com/gabrielkerr/code_interview/commit/4f29e1a647ae6f93836567e1ac1e331082157d9c)
