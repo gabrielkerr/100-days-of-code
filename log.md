@@ -51,3 +51,12 @@
 
 **Link(s) to work**
 1. [Start summation of linked lists represented in forward order.](https://github.com/gabrielkerr/code_interview/commit/4f29e1a647ae6f93836567e1ac1e331082157d9c)
+
+### Day 11: January 7, Sunday
+
+**Today's Progress**: Detect cycles in linked lists. 
+
+**Thoughts** Missed a few days for vacation, but I'm back in it! 
+
+**Link(s) to work**
+1. [Detect cycles in linked lists.](https://github.com/gabrielkerr/code_interview/commit/bee445b550c59773e2bcf5e6944cc4f5ee006625)
